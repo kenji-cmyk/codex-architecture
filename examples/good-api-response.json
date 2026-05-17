@@ -1,0 +1,9 @@
+{
+  "success": true,
+  "message": "User created",
+  "data": {
+    "id": 42,
+    "email": "alex@example.com",
+    "displayName": "Alex Chen"
+  }
+}
