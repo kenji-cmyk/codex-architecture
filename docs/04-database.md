@@ -26,6 +26,6 @@ No concrete database engine or schema is present yet. Use these rules when persi
 
 ## Safety
 
-- Never drop or rewrite data without explicit approval.
+- Never drop or rewrite data without explicit approval.      
 - Do not commit database credentials.
 - Use least-privilege database accounts for deployed environments.
